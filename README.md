@@ -1,2 +1,2 @@
-# README - CRUD Blog App
+# README - Ruby/Rails CRUD Blog App
 
